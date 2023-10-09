@@ -7,3 +7,8 @@ The goal of this project is to perform Exploratory Data Analysis (EDA) on the te
 Dataset: The dataset for the Global Terrorism Analysis was taken from Kaggle and the link is given below.
 https://www.kaggle.com/datasets/START-UMD/gtd 
 
+## Task 2 Email Spam Detection
+The goal of this project is to develop a robust email spam detection system using machine learning techniques. By analyzing the content and characteristics of emails, the system should be able to accurately classify incoming emails as either spam or legitimate (ham).
+
+Dataset: The dataset for the Email Spam Detection was taken from Kaggle and the link is given below. Also it is uploaded in this repository.
+https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv
